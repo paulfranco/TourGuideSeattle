@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tour Guide - Seattle</string>
+    <string name="category_attractions">Attraction</string>
+    <string name="category_landmarks">Landmarks</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_restaurants">Restaurant</string>
+    <string name="space_needle_details">The Space Needle is an observation tower in Seattle, Washington, a landmark of the Pacific Northwest, and an icon of Seattle</string>
+    <string name="space_needle_title">Space Needle</string>
+    <string name="gum_wall_title">Gum Wall</string>
+    <string name="great_wheel_title">Seattle Great Wheel</string>
+    <string name="gum_wall_details">The Market Theater Gum Wall is a brick wall covered in used chewing gum, in an alleyway in downtown Seattle. It is located in Post Alley under Pike Place Market.</string>
+    <string name="great_wheel_details">The Seattle Great Wheel is a giant Ferris wheel at Pier 57 on Elliott Bay in Seattle, Washington. With an overall height of 175 feet, it was the tallest Ferris wheel on the West Coast of the United States when it opened on June 29, 2012.</string>
+    <string name="alki_details">Alki Beach Park is a 135.9-acre park located in the West Seattle neighborhood of Seattle, Washington that consists of the Elliott Bay beach between Alki Point and Duwamish Head.</string>
+    <string name="alki_beach_title">Alki Beach Park</string>
+    <string name="hitchcock_title">Hitchcock Restaurant</string>
+    <string name="hitchcock_details">Hitchcock is chef Brendan McGill’s ode to the land he’s worked since moving to Bainbridge Island years ago, and the ferry ride required is a bonus. He opened the restaurant in 2010, and though the initial buzz has died down, there are still outstanding things happening here. “Microseasonal” in its approach and therefore obsessive about its preservation techniques, Hitchcock features local produce, seafood, and meat, flawlessly executed, from radish to sablefish to McGill’s own heritage mangalitsa pigs. The wine-pairing program is strong, too.</string>
+    <string name="flintcreek_title">Flintcreek Cattle Co.</string>
+    <string name="flintcreek_details">Despite its name, the sibling to seafood-stunner Rockcreek focuses more on responsibly raised game meats (quail pate, bison hanger steak, wild boar shoulder) than on beef. Even more surprising is the quality of the vegetable dishes, like the pickled vegetables with blue cheese-tahini sauce, which make even vegetarians feel well taken care of. Together with a fantastic cocktail list and a chic 120-seat corner-space boasting a mezzanine and huge windows, this is Greenwood’s first real destination restaurant.</string>
+    <string name="cafe_munir_title">Cafe Munir</string>
+    <string name="cafe_munir_details">This Ballard beauty’s food, with influences from owner Rajah Gargour’s Lebanese origins, is a vegetarian’s dream. Small plates of lentils ground with roasted garlic, house labneh, and sweet pears in savory tahini are consistently perfect. And the Sunday dinner is an unmissable deal, covering each tablecloth with a different chef’s-choice selection, especially delightful if the chef picks the sumac-roasted half-chicken in house pita.</string>
+    <string name="museum_pop_title">Museum of Pop Culture</string>
+    <string name="museum_pop_details">The Museum of Pop Culture, or MoPOP is a nonprofit museum dedicated to contemporary popular culture. It was founded by Microsoft co-founder Paul Allen in 2000 as the Experience Music Project.</string>
+    <string name="underground_title">Bill Speidel\'s Underground Tour</string>
+    <string name="underground_details">Bill Speidel\'s underground tour is a leisurely, guided walking tour beneath Seattle\'s sidewalks and streets.</string>
+    <string name="ducks_title">Ride The Ducks</string>
+    <string name="ducks_details">Quack, laugh, and learn with your wacky Tour Guide and enjoy the ride as a Coast Guard Certified Captain drives a DUKW on a one-of-a-kind tour of Seattle! See the Seattle waterfront, Pioneer Square, Pike Place Market and the downtown shopping district before you SPLASH into Lake Union! It’s a party on wheels that floats!</string>
+    <string name="seward_park_title">Seward Park</string>
+    <string name="seward_park_details">Seward Park is a neighborhood in southeast Seattle, Washington just west of the park of the same name. It is part of Seattle\'s South End. The park itself occupies all of Bailey Peninsula, which juts into Lake Washington</string>
+    <string name="carkeek_title">Carkeek Park</string>
+    <string name="carkeek_details">Carkeek Park is a 216 acres park located in the Broadview neighborhood of Seattle, Washington. The park contains Piper Orchard, Pipers Creek, play and picnic areas, picnic shelters, and hiking trails.</string>
+</resources>
